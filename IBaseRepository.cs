@@ -2,5 +2,5 @@
 
 public interface IBaseRepository
 {
-    HelloReply GetHelloReply(string requestName);
+    HelloReply GetHelloReplyTest(string requestName);
 }
